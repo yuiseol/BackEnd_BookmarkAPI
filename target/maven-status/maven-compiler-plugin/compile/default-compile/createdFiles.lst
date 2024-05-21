@@ -1,0 +1,13 @@
+com\bookmarker\api\dto\BookmarkVM.class
+com\bookmarker\api\runner\DataInitializer.class
+com\bookmarker\api\service\BookmarkService.class
+com\bookmarker\api\BookMarkerApiApplication.class
+com\bookmarker\api\dto\BookmarkDTO.class
+com\bookmarker\api\runner\DatabaseRunner.class
+com\bookmarker\api\dto\CreateBookmarkRequest.class
+com\bookmarker\api\domain\Bookmark.class
+com\bookmarker\api\dto\BookmarksDTO.class
+com\bookmarker\api\config\WebConfig.class
+com\bookmarker\api\controller\BookmarkController.class
+com\bookmarker\api\dto\BookmarkMapper.class
+com\bookmarker\api\domain\BookmarkRepository.class

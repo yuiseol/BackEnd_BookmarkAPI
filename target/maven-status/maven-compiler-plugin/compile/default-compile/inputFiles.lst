@@ -1,0 +1,13 @@
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\runner\DataInitializer.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\dto\BookmarksDTO.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\dto\CreateBookmarkRequest.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\service\BookmarkService.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\domain\Bookmark.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\domain\BookmarkRepository.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\controller\BookmarkController.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\dto\BookmarkDTO.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\runner\DatabaseRunner.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\config\WebConfig.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\dto\BookmarkVM.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\BookMarkerApiApplication.java
+C:\Springboot_Nextjs_kube\BookMarker-API\src\main\java\com\bookmarker\api\dto\BookmarkMapper.java
